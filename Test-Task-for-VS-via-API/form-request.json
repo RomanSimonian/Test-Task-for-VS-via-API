@@ -1,0 +1,34 @@
+﻿{
+  "formProperties": {
+    "formName": "Contacts Form 2",
+    "formId": "comp-jxd8gc7s"
+  },
+  "emailConfig": {
+    "sendToOwnerAndEmails": {
+      "emailIds": []
+    }
+  },
+  "viewMode": "Site",
+  "fields": [
+    {
+      "fieldId": "comp-jxd8gc8n",
+      "label": "First Name",
+      "firstName": {
+        "value": "aboba"
+      }
+    },
+    {
+      "fieldId": "comp-jxd8gc99",
+      "label": "Email",
+      "email": {
+        "value": "aboba@gaag.afsa",
+        "tag": "main"
+      }
+    }
+  ],
+  "labelIds": [
+    "contacts-contacted_me",
+    "0e84ae80-8bf1-43a6-ba05-8eefb8cbc86b",
+    "2f48386d-f13f-455f-a00f-9d697ef76de6"
+  ]
+}
